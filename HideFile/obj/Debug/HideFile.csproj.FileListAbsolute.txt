@@ -1,0 +1,28 @@
+C:\Users\SOGETI\Documents\Securitas Lorenzo\Securitas POST_TS\Proyectos\Mios\HideFile\HideFile\HideFile\bin\Debug\HideFile.exe.config
+C:\Users\SOGETI\Documents\Securitas Lorenzo\Securitas POST_TS\Proyectos\Mios\HideFile\HideFile\HideFile\obj\Debug\MainWindow.g.cs
+C:\Users\SOGETI\Documents\Securitas Lorenzo\Securitas POST_TS\Proyectos\Mios\HideFile\HideFile\HideFile\obj\Debug\App.g.cs
+C:\Users\SOGETI\Documents\Securitas Lorenzo\Securitas POST_TS\Proyectos\Mios\HideFile\HideFile\HideFile\obj\Debug\HideFile_MarkupCompile.cache
+C:\Users\SOGETI\Documents\Securitas Lorenzo\Securitas POST_TS\Proyectos\Mios\HideFile\HideFile\HideFile\obj\Debug\HideFile_MarkupCompile.lref
+C:\Users\SOGETI\Documents\Securitas Lorenzo\Securitas POST_TS\Proyectos\Mios\HideFile\HideFile\HideFile\bin\Debug\HideFile.exe
+C:\Users\SOGETI\Documents\Securitas Lorenzo\Securitas POST_TS\Proyectos\Mios\HideFile\HideFile\HideFile\bin\Debug\HideFile.pdb
+C:\Users\SOGETI\Documents\Securitas Lorenzo\Securitas POST_TS\Proyectos\Mios\HideFile\HideFile\HideFile\obj\Debug\MainWindow.baml
+C:\Users\SOGETI\Documents\Securitas Lorenzo\Securitas POST_TS\Proyectos\Mios\HideFile\HideFile\HideFile\obj\Debug\HideFile.g.resources
+C:\Users\SOGETI\Documents\Securitas Lorenzo\Securitas POST_TS\Proyectos\Mios\HideFile\HideFile\HideFile\obj\Debug\HideFile.Properties.Resources.resources
+C:\Users\SOGETI\Documents\Securitas Lorenzo\Securitas POST_TS\Proyectos\Mios\HideFile\HideFile\HideFile\obj\Debug\HideFile.csproj.GenerateResource.Cache
+C:\Users\SOGETI\Documents\Securitas Lorenzo\Securitas POST_TS\Proyectos\Mios\HideFile\HideFile\HideFile\obj\Debug\HideFile.exe
+C:\Users\SOGETI\Documents\Securitas Lorenzo\Securitas POST_TS\Proyectos\Mios\HideFile\HideFile\HideFile\obj\Debug\HideFile.pdb
+C:\Users\SOGETI\Documents\Securitas Lorenzo\Securitas POST_TS\Proyectos\Mios\HideFile\HideFile\HideFile\obj\Debug\HideFile.csprojResolveAssemblyReference.cache
+C:\Users\lorenzo.sanchez\OneDrive - Verisure\Securitas new school\Proyectos\Mios\3 - HideFile\HideFile\HideFile\bin\Debug\HideFile.exe.config
+C:\Users\lorenzo.sanchez\OneDrive - Verisure\Securitas new school\Proyectos\Mios\3 - HideFile\HideFile\HideFile\obj\Debug\HideFile.exe
+C:\Users\lorenzo.sanchez\OneDrive - Verisure\Securitas new school\Proyectos\Mios\3 - HideFile\HideFile\HideFile\obj\Debug\HideFile.pdb
+C:\Users\lorenzo.sanchez\OneDrive - Verisure\Securitas new school\Proyectos\Mios\3 - HideFile\HideFile\HideFile\bin\Debug\HideFile.exe
+C:\Users\lorenzo.sanchez\OneDrive - Verisure\Securitas new school\Proyectos\Mios\3 - HideFile\HideFile\HideFile\bin\Debug\HideFile.pdb
+C:\Users\lorenzo.sanchez\OneDrive - Verisure\Securitas new school\Proyectos\Mios\3 - HideFile\HideFile\HideFile\obj\Debug\HideFile.csprojResolveAssemblyReference.cache
+C:\Users\lorenzo.sanchez\OneDrive - Verisure\Securitas new school\Proyectos\Mios\3 - HideFile\HideFile\HideFile\obj\Debug\MainWindow.g.cs
+C:\Users\lorenzo.sanchez\OneDrive - Verisure\Securitas new school\Proyectos\Mios\3 - HideFile\HideFile\HideFile\obj\Debug\App.g.cs
+C:\Users\lorenzo.sanchez\OneDrive - Verisure\Securitas new school\Proyectos\Mios\3 - HideFile\HideFile\HideFile\obj\Debug\HideFile_MarkupCompile.cache
+C:\Users\lorenzo.sanchez\OneDrive - Verisure\Securitas new school\Proyectos\Mios\3 - HideFile\HideFile\HideFile\obj\Debug\HideFile_MarkupCompile.lref
+C:\Users\lorenzo.sanchez\OneDrive - Verisure\Securitas new school\Proyectos\Mios\3 - HideFile\HideFile\HideFile\obj\Debug\MainWindow.baml
+C:\Users\lorenzo.sanchez\OneDrive - Verisure\Securitas new school\Proyectos\Mios\3 - HideFile\HideFile\HideFile\obj\Debug\HideFile.g.resources
+C:\Users\lorenzo.sanchez\OneDrive - Verisure\Securitas new school\Proyectos\Mios\3 - HideFile\HideFile\HideFile\obj\Debug\HideFile.Properties.Resources.resources
+C:\Users\lorenzo.sanchez\OneDrive - Verisure\Securitas new school\Proyectos\Mios\3 - HideFile\HideFile\HideFile\obj\Debug\HideFile.csproj.GenerateResource.Cache
